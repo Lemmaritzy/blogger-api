@@ -1,12 +1,12 @@
-## blogger-api
-# blog application rest-api with Go
+# blogger-api
+ blog application rest-api with Go
 
 ## Current tech
-# go-fiber
-# postgresql
-# jackc/pgx
+ go-fiber <br>
+ postgresql <br>
+ jackc/pgx <br>
 
 ## Working on it
-# Swagger docs
-# Jwt
-# Docker
+ Swagger docs <br>
+ Jwt <br>
+ Docker <br>
